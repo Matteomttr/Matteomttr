@@ -1,16 +1,23 @@
-## Hi there 👋
+# Bonjour, je suis Matteo 👋
 
-<!--
-**Matteomttr/Matteomttr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Développeur passionné par la création d'applications et de jeux mobiles.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Kotlin / Android Studio
+- JavaScript
+- Git & Linux
+- C / C++
+
+## 🎮 Projets
+
+### Oral Studio
+Création de projets logiciels et jeux indépendants.
+
+## 📊 Statistiques GitHub
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TONPSEUDO&show_icons=true)
+
+## 📫 Contact
+
+Site : tonsite.com
