@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://malyo.netlify.app/img/MALYO_Logo_clair_trans.png" alt="Malyo" height="60"/>
+<img src="https://malyo.malyo-informatique.workers.dev/img/MALYO_Logo_clair_trans.png" alt="Malyo" height="60"/>
 
 <br/>
 <br/>
@@ -11,7 +11,7 @@
 
 <br/>
 
-[![Site](https://img.shields.io/badge/Site-malyo.netlify.app-2ECC8A?style=flat-square&logo=netlify&logoColor=white)](https://malyo.netlify.app)
+[![Site](https://img.shields.io/badge/Site-malyo.malyo-informatique.workers.dev-2ECC8A?style=flat-square&logo=netlify&logoColor=white)](https://malyo.malyo-informatique.workers.dev)
 [![Email](https://img.shields.io/badge/Contact-helpdev.matteo%40gmail.com-2ECC8A?style=flat-square&logo=gmail&logoColor=white)](mailto:helpdev.matteo@gmail.com)
 [![Licence](https://img.shields.io/badge/Licence-EULA-2ECC8A?style=flat-square)](https://malyo.netlify.app/html/contact)
 
@@ -48,14 +48,14 @@ Chaque projet est accompagné de ses documents légaux et d'un lien de télécha
 
 <br/>
 
-### 🎮 Soda Clicker
-> `app · mobile · v1.01` &nbsp;·&nbsp; `Kotlin / JavaScript / XML`
+### Task+
+> `app · mobile · v1.00` &nbsp;·&nbsp; `React Native / JavaScript / XML`
 
-Dans ce jeu mobile, c'est vous qui décidez ce que vous pariez.  
-Gagnez encore et encore, débloquez des canettes, des couleurs de thème et toutes sortes d'objets rigolos.
+Le gestionnaire de tâches simple et efficace. 
+Organisez vos tâches, définissez des priorités et suivez vos progrès avec une interface intuitive.
 
-[![Voir le projet](https://img.shields.io/badge/Voir%20le%20projet-2ECC8A?style=flat-square)](https://malyo.netlify.app/html/portfolio)
-[![Mentions légales](https://img.shields.io/badge/Mentions%20l%C3%A9gales-2a2a2a?style=flat-square)](https://malyo.netlify.app/html/contact)
+[![Voir le projet](https://img.shields.io/badge/Voir%20le%20projet-2ECC8A?style=flat-square)](https://malyo.malyo-informatique.workers.dev/html/portfolio)
+[![Mentions légales](https://img.shields.io/badge/Mentions%20l%C3%A9gales-2a2a2a?style=flat-square)](https://malyo.malyo-informatique.workers.dev/html/contact)
 
 <!-- Ajoute un bloc par projet ci-dessous, même format -->
 
@@ -69,12 +69,12 @@ Gagnez encore et encore, débloquez des canettes, des couleurs de thème et tout
 
 | Document | Lien |
 |----------|------|
-| 📄 Mentions légales | [Accéder](https://malyo.netlify.app/html/contact) |
-| 🔒 Politique de confidentialité | [Accéder](https://malyo.netlify.app/html/contact) |
-| 📋 CGU | [Accéder](https://malyo.netlify.app/html/contact) |
+| 📄 Mentions légales | [Accéder](https://malyo.malyo-informatique.workers.dev/html/contact) |
+| 🔒 Politique de confidentialité | [Accéder](https://malyo.malyo-informatique.workers.dev/html/contact) |
+| 📋 CGU | [Accéder](https://malyo.malyo-informatique.workers.dev/html/contact) |
 | 🛒 CGV | [Accéder](https://malyo.netlify.app/html/contact) |
 | ⚖️ EULA | [Accéder](https://malyo.netlify.app/html/contact) |
-| 🔞 Classification d'âge | [Accéder](https://malyo.netlify.app/html/contact) |
+| 🔞 Classification d'âge | [Accéder](https://malyo.malyo-informatique.workers.dev/html/contact) |
 
 <br/>
 
@@ -103,7 +103,7 @@ Gagnez encore et encore, débloquez des canettes, des couleurs de thème et tout
 
 [![Email](https://img.shields.io/badge/helpdev.matteo%40gmail.com-2ECC8A?style=flat-square&logo=gmail&logoColor=white)](mailto:helpdev.matteo@gmail.com)
 &nbsp;
-[![Site](https://img.shields.io/badge/malyo.netlify.app-2ECC8A?style=flat-square&logo=netlify&logoColor=white)](https://malyo.netlify.app)
+[![Site](https://img.shields.io/badge/malyo.malyo-informatique.workers.dev-2ECC8A?style=flat-square&logo=netlify&logoColor=white)](https://malyo.malyo-informatique.workers.dev)
 
 </div>
 
