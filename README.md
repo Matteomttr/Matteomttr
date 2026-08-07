@@ -11,7 +11,7 @@
 
 <br/>
 
-[![Site](https://img.shields.io/badge/Site-malyo.malyo-informatique.workers.dev-2ECC8A?style=flat-square&logo=netlify&logoColor=white)](https://malyo.malyo-informatique.workers.dev)
+[Site](https://malyo.malyo-informatique.workers.dev)
 [![Email](https://img.shields.io/badge/Contact-helpdev.matteo%40gmail.com-2ECC8A?style=flat-square&logo=gmail&logoColor=white)](mailto:helpdev.matteo@gmail.com)
 [![Licence](https://img.shields.io/badge/Licence-EULA-2ECC8A?style=flat-square)](https://malyo.netlify.app/html/contact)
 
@@ -103,7 +103,7 @@ Organisez vos tâches, définissez des priorités et suivez vos progrès avec un
 
 [![Email](https://img.shields.io/badge/helpdev.matteo%40gmail.com-2ECC8A?style=flat-square&logo=gmail&logoColor=white)](mailto:helpdev.matteo@gmail.com)
 &nbsp;
-[![Site](https://img.shields.io/badge/malyo.malyo-informatique.workers.dev-2ECC8A?style=flat-square&logo=netlify&logoColor=white)](https://malyo.malyo-informatique.workers.dev)
+[Site](https://malyo.malyo-informatique.workers.dev)
 
 </div>
 
