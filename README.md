@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://malyo.malyo-informatique.workers.dev/img/MALYO_Logo_clair_trans.png" alt="Malyo" height="60"/>
+<img src="https://MMatteo.fr/img/BLogoC.png" alt="Studio M. Matteo" height="60"/>
 
 <br/>
 <br/>
 
-# CRÉER. DÉVELOPPER. PARTAGER.
+# CREATE. DEVELOP. SHARE.
 
-**Studio de création informatique indépendant**
+**Independent computer creation studio**
 
 <br/>
 
@@ -21,22 +21,21 @@
 
 ---
 
-## À propos
+## About
 
-Malyo est né d'une passion pour le développement de jeux et d'applications, pensée comme une première base avant une activité plus structurée.
-Chaque projet est accompagné de ses documents légaux et d'un lien de téléchargement ou d'accès direct.
+Studio M. Matteo was born from a passion for the development of games and applications, thought as a first base before a more structured activity. Each project is downloadable, accompanied by its legal notices.
 
-> **Mattera Mattéo** — développeur indépendant passionné par la création de jeux, d'applications et de sites web.
+> **Mattera Mattéo** — Independent developer passionate about creating games, applications and websites.
 
 <br/>
 
 ---
 
-## Stack technique
+## Technical stack
 
 <br/>
 
-| Langages | Moteurs | Frameworks | Outils |
+| Languages | Engines | Frameworks | Tools |
 |:--------:|:-------:|:----------:|:------:|
 | `C#` `JavaScript` `HTML/CSS` `Kotlin` | `Unity` | `React` | `VS Code` `Git` |
 
@@ -44,7 +43,7 @@ Chaque projet est accompagné de ses documents légaux et d'un lien de télécha
 
 ---
 
-## Projets
+## Projects
 
 <br/>
 
@@ -63,32 +62,32 @@ Organisez vos tâches, définissez des priorités et suivez vos progrès avec un
 
 ---
 
-## Documents légaux
+## Legal documents
 
 <br/>
 
-| Document | Lien |
+| Document | Link |
 |----------|------|
-| 📄 Mentions légales | [Accéder](https://malyo.malyo-informatique.workers.dev/html/contact) |
-| 🔒 Politique de confidentialité | [Accéder](https://malyo.malyo-informatique.workers.dev/html/contact) |
-| 📋 CGU | [Accéder](https://malyo.malyo-informatique.workers.dev/html/contact) |
-| 🛒 CGV | [Accéder](https://malyo.netlify.app/html/contact) |
-| ⚖️ EULA | [Accéder](https://malyo.netlify.app/html/contact) |
-| 🔞 Classification d'âge | [Accéder](https://malyo.malyo-informatique.workers.dev/html/contact) |
+| 📄 Legal notice | [Access](https://malyo.malyo-informatique.workers.dev/html/contact) |
+| 🔒 Privacy policy | [Access](https://malyo.malyo-informatique.workers.dev/html/contact) |
+| 📋 General Terms of Use | [Access](https://malyo.malyo-informatique.workers.dev/html/contact) |
+| 🛒 General Terms of Sale | [Access](https://malyo.netlify.app/html/contact) |
+| ⚖️ EULA | [Access](https://malyo.netlify.app/html/contact) |
+| 🔞 Age Classification | [Access](https://malyo.malyo-informatique.workers.dev/html/contact) |
 
 <br/>
 
 ---
 
-## Parcours
+## My Journey
 
 <br/>
 
 ```
-2022 ──── Premiers projets Unity & C#
-2024 ──── Élargissement des compétences — web, React, Kotlin
-2025 ──── Création de Malyo
-2026 ──── En constante progression
+2022 ──── Early Unity & C# projects
+2024 ──── Expansion of skills—web, React, Kotlin
+2025 ──── Creation of Studio M. Matteo
+2026 ──── Steady progress
 ```
 
 <br/>
@@ -113,8 +112,8 @@ Organisez vos tâches, définissez des priorités et suivez vos progrès avec un
 
 <div align="center">
 
-`Malyo` &nbsp;·&nbsp; `Mattera Mattéo` &nbsp;·&nbsp; `helpdev.matteo@gmail.com`
+`Studio M. Matteo` &nbsp;·&nbsp; `Mattera Mattéo` &nbsp;·&nbsp; `helpdev.matteo@gmail.com`
 
-*© 2026 Malyo. Tous droits réservés.*
+*© 2026 Studio M. Matteo, Mattera Mattéo — All rights reserved.*
 
 </div>
