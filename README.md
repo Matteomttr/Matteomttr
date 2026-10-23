@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
 
 <img src="https://MMatteo.fr/img/BLogoC.png" alt="Studio M. Matteo" height="60"/>
 
@@ -116,5 +116,5 @@ Ajoute un bloc par projet ci-dessous, même format
 
 *© 2026 Studio M. Matteo, Mattera Mattéo — All rights reserved.*
 
-</div> -->
+</div>
 coucou c moi
