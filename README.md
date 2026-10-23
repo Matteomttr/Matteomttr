@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://MMatteo.fr/img/BLogoC.png" alt="Studio M. Matteo" height="60"/>
 
@@ -56,7 +56,7 @@ Organisez vos tâches, définissez des priorités et suivez vos progrès avec un
 [![Voir le projet](https://img.shields.io/badge/Voir%20le%20projet-2ECC8A?style=flat-square)](https://malyo.malyo-informatique.workers.dev/html/portfolio)
 [![Mentions légales](https://img.shields.io/badge/Mentions%20l%C3%A9gales-2a2a2a?style=flat-square)](https://malyo.malyo-informatique.workers.dev/html/contact)
 
-<!-- Ajoute un bloc par projet ci-dessous, même format -->
+Ajoute un bloc par projet ci-dessous, même format
 
 <br/>
 
@@ -116,4 +116,5 @@ Organisez vos tâches, définissez des priorités et suivez vos progrès avec un
 
 *© 2026 Studio M. Matteo, Mattera Mattéo — All rights reserved.*
 
-</div>
+</div> -->
+coucou c moi
