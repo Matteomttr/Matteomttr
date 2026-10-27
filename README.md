@@ -23,7 +23,7 @@
 
 ## About
 
-Studio M. Matteo was born from a passion for the development of games and applications, thought as a first base before a more structured activity. Each project is downloadable, accompanied by its legal notices.
+Studio M. Matteo was born from a passion for the development of games and applications, thought as a first base before a more structured activity. Each project is downloadable, accompanied by its legalMatteomttr notices.
 
 > **Mattera Mattéo** — Independent developer passionate about creating games, applications and websites.
 
