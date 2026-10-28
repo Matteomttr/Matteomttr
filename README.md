@@ -119,4 +119,4 @@ Ajoute un bloc par projet ci-dessous, même format
 </div> -->
 coucou c moi
 
-[![wakatime](https://wakatime.com/badge/user/Matteomttr.svg)](https://wakatime.com/@Matteomttr)
+[![wakatime](https://wakatime.com/badge/user/MatteoMttr.svg)](https://wakatime.com/@MatteoMttr)
