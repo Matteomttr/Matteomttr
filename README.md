@@ -120,6 +120,6 @@ Ajoute un bloc par projet ci-dessous, même format
 
 <!-- Dynamic WakaTime SVG Card -->
 <p align="center">
-  ## coucou c moi
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=829dd557-7641-45b5-b39f-19a746bf216d&theme=black&layout=compact&cache_seconds=86400" alt="WakaTime Stats" />
+  <h3>coucou c moi</h3>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?email=mattera.matteo.fr@gmail.com&theme=black&layout=compact&cache_seconds=86400" alt="WakaTime Stats" />
 </p>
