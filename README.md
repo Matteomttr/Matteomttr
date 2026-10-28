@@ -121,5 +121,5 @@ coucou c moi
 
 <!-- Dynamic WakaTime SVG Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Matteomttr&theme=tokyonight&layout=compact&cache_seconds=86400" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@829dd557-7641-45b5-b39f-19a746bf216d&theme=black&layout=compact&cache_seconds=86400" alt="WakaTime Stats" />
 </p>
