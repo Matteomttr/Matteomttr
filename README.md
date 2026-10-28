@@ -119,4 +119,4 @@ Ajoute un bloc par projet ci-dessous, même format
 </div> -->
 coucou c moi
 
-<figure><embed src="https://wakatime.com/share/@829dd557-7641-45b5-b39f-19a746bf216d/2407fe4d-be7f-429f-be0f-d97abd059a1e.svg"></embed></figure>
+![WakaTime Stats](https://wakatime.com/share/@829dd557-7641-45b5-b39f-19a746bf216d/c1424807-596a-4592-947f-49439c14ca83.svg)
