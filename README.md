@@ -120,4 +120,5 @@ Ajoute un bloc par projet ci-dessous, même format
 
 <p align="center">
   <h3>coucou c moi</h3>
+  <img src="https://vercel-ten-kappa-62.vercel.app/api/wakatime?username=Matteomttr&theme=dark&layout=compact&langs_count=12&border_radius=5&hide_title=true" alt="Matteomttr wakatime stats" />
 </p>
