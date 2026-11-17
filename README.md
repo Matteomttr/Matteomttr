@@ -120,4 +120,5 @@ Ajoute un bloc par projet ci-dessous, même format
 
 <p align="center">
   <h3>coucou c moi</h3>
+  [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com)
 </p>
